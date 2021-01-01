@@ -1,0 +1,24 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>My Profile: Dhaneshwar Singh</title>
+</head>
+<body>
+
+<h1 style="font-size:300%"style="border:2px solid tomato;">Essential Details</h1>
+<p>NAME: DHANESHWAR SINGH</p>
+<p>AGE: 21</p>
+<p>PROFESSION: STUDENT </p>
+<p>EMAIL: dhanneshwars@gmail.com</p>
+
+<h2 style="font szie:200%"style="border:2px solid DodgerBlue;">Educational Background</h2>
+<p style="background-color:powderblue;">Primary Education:2015</p>
+<p style="background-color:powderblue;">Secondary Education:2017, Non Medical(75%)</p>
+<p style="background-color:powderblue;">Higher Education:2022, Btech cse(cloud computing)</p>
+
+<h3 style="font szie:100%"style="text-align:center"style="border:2px solid tomato;">Hobbies</h3>
+<p style="color:red;"style="font-family:verdana;">My hobbies are as follows: 1.Cooking <br> 2.Composing poems <br> 3.Cycling <br> 4.Exploring various places(Wanderlust) </p>
+<a href="https://youtu.be/sYiLZ0WF0dw">You can view my poet skills here</a>
+
+</body>
+</html>
